@@ -4,3 +4,5 @@ short description
 upraveno jako branch
 
 upraveno jako readme 2
+
+upraveno jako reamde 2 po druhe
